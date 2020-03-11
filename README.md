@@ -2,8 +2,4 @@ This project includes the source code and other related materials about the pape
 
 1. Code will be released upon acceptance.
 
-2. The video to show the performance is located as follows:
-a) google driver:
-
-b) baidu disk: _https://pan.baidu.com/s/1MZYXtEZ9vluH3shtu-GUrA_ 
-   password：8ppm
+2. The video to show the performance is proviede.
