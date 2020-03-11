@@ -2,4 +2,4 @@ This project includes the source code and other related materials about the pape
 
 1. Code will be released upon acceptance.
 
-2. The video to show the performance is proviede.
+2. The video to show the performance is provided.
